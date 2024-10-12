@@ -1,5 +1,4 @@
 import Link from "next/link"
-import Image from "next/image"
 export default function Navbar (){
     return(
         <header style={{backgroundColor:"blue" , color:"white", display:"flex", flexWrap:"wrap"}}>
