@@ -11,7 +11,7 @@ export default function Navbar (){
                         <Link style={{color:"white"}} href="/products/product1">Products</Link>
                     </li>
                     <li >
-                        <Link style={{color:"white"}} href="/products/product1">Services</Link>
+                        <Link style={{color:"white"}} href="/services/crypto">Services</Link>
                     </li>
                 </ul>
             </nav>
